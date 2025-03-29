@@ -1,0 +1,2 @@
+NEXT_PUBLIC_APP_NAME=WellText
+MONGODB_URI=mongodb+srv://root:root@cluster0.1p1as.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
